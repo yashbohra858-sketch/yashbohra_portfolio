@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="t d">
+<title id="t">Adappt 3.0 concept prototype (illustrative only)</title>
+<desc id="d">An illustrative wireframe with three panels: research and problem framing, UI/UX prototyping, and data analysis. It is not the real Adappt interface.</desc>
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".06"/></pattern></defs>
+<rect width="800" height="520" fill="#0A1230"/><rect width="800" height="520" fill="url(#g)"/>
+<rect x="24" y="24" width="752" height="40" rx="10" fill="#1F4BFF"/>
+<circle cx="48" cy="44" r="6" fill="#FF6B57"/><circle cx="68" cy="44" r="6" fill="#F6F1E7" fill-opacity=".7"/><circle cx="88" cy="44" r="6" fill="#F6F1E7" fill-opacity=".4"/>
+<text x="400" y="50" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#F6F1E7">Adappt 3.0 · concept layout</text>
+<g font-family="Arial,sans-serif">
+<rect x="24" y="84" width="240" height="340" rx="14" fill="#F6F1E7"/>
+<text x="42" y="116" font-size="15" font-weight="700" fill="#0A1230">Research &amp; problem framing</text>
+<rect x="42" y="134" width="204" height="10" rx="5" fill="#0A1230" fill-opacity=".15"/><rect x="42" y="154" width="160" height="10" rx="5" fill="#0A1230" fill-opacity=".15"/>
+<rect x="42" y="184" width="204" height="64" rx="10" fill="#1F4BFF" fill-opacity=".12"/><text x="56" y="222" font-size="13" fill="#0A1230">Who is this for?</text>
+<rect x="42" y="260" width="204" height="64" rx="10" fill="#FF6B57" fill-opacity=".22"/><text x="56" y="298" font-size="13" fill="#0A1230">What problem comes first?</text>
+<rect x="42" y="336" width="204" height="64" rx="10" fill="#0A1230" fill-opacity=".08"/><text x="56" y="374" font-size="13" fill="#0A1230">What did we learn?</text>
+<rect x="280" y="84" width="240" height="340" rx="14" fill="#F6F1E7"/>
+<text x="298" y="116" font-size="15" font-weight="700" fill="#0A1230">UI/UX &amp; prototype</text>
+<rect x="298" y="134" width="204" height="130" rx="12" fill="#1F4BFF"/>
+<rect x="312" y="150" width="90" height="12" rx="6" fill="#F6F1E7"/><rect x="312" y="172" width="150" height="8" rx="4" fill="#F6F1E7" fill-opacity=".6"/><rect x="312" y="188" width="120" height="8" rx="4" fill="#F6F1E7" fill-opacity=".6"/>
+<rect x="312" y="220" width="70" height="28" rx="14" fill="#FF6B57"/>
+<rect x="298" y="278" width="98" height="64" rx="10" fill="#0A1230" fill-opacity=".1"/><rect x="404" y="278" width="98" height="64" rx="10" fill="#0A1230" fill-opacity=".1"/>
+<rect x="298" y="352" width="204" height="48" rx="10" fill="#FF6B57" fill-opacity=".22"/>
+<rect x="536" y="84" width="240" height="340" rx="14" fill="#F6F1E7"/>
+<text x="554" y="116" font-size="15" font-weight="700" fill="#0A1230">Data analysis</text>
+<g stroke="#0A1230" stroke-opacity=".15"><path d="M554 140H758M554 190H758M554 240H758M554 290H758M554 340H758"/></g>
+<path d="M556 330C590 300 610 250 646 262S700 200 756 170" fill="none" stroke="#1F4BFF" stroke-width="5" stroke-linecap="round"/>
+<path d="M556 350C600 340 640 320 676 322S730 300 756 286" fill="none" stroke="#FF6B57" stroke-width="5" stroke-linecap="round"/>
+<text x="554" y="392" font-size="12" fill="#0A1230" fill-opacity=".75">Shapes only. No real data shown.</text>
+</g>
+<rect x="24" y="440" width="752" height="56" rx="12" fill="#FF6B57"/>
+<text x="400" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="800" fill="#0A1230">CONCEPT ONLY · ILLUSTRATIVE PORTFOLIO VISUAL</text>
+<text x="400" y="484" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#0A1230">Not a screenshot of the actual Adappt interface. Features shown are not claims.</text>
+</svg>
